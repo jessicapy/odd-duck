@@ -23,6 +23,7 @@ Esta es una página web donde se podrá votar por 1 de 3 productos mostrados, do
 + Punctuación lab 15:
 
 <img alt="Lab15" src="/img/lighthouse.jpg">
+<img alt="Lab11" src="/img/Lab11.png">
 
 ### Licencia 
 
